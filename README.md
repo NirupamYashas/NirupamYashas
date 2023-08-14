@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashas Kuchimanchi</h1>
 <h3 align="center">Full Stack Web Developer | Innovative Computer Scientist with AI & ML Expertise | MS in Computer & Information Science @ UF</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirupamyashas" alt="nirupamyashas" /></a> </p>
 
 - 🔭 I’m currently working on [Interactive Web Dashboard](https://ec2-3-129-177-192.us-east-2.compute.amazonaws.com/)
 
