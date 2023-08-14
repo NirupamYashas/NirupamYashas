@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashas Kuchimanchi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Web Developer | Innovative Computer Scientist with AI & ML Expertise | MS in Computer & Information Science @ UF</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirupamyashas" alt="nirupamyashas" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [yashaskuchimanchi.com](yashaskuchimanchi.com)
 
-- 💬 Ask me about **React, Angular, Node.js, Spring Boot**
+- 💬 Ask me about **React, Angular, Node.js, Spring Boot, ASP.NET**
 
 - 📫 How to reach me **kuchimanchi.s@ufl.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GvAFAVzvIYotfySrbmhC5zFHd4YLdIAT0LhbdiMhrO8/edit?usp=sharing&resourcekey=0-bagWYyyLKdDFjxDl057rUg](https://docs.google.com/document/d/1GvAFAVzvIYotfySrbmhC5zFHd4YLdIAT0LhbdiMhrO8/edit?usp=sharing&resourcekey=0-bagWYyyLKdDFjxDl057rUg)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18AtYzX7BiKnzx-CPAjvNe1MNWc4oATDh/view?usp=drive_link](https://drive.google.com/file/d/18AtYzX7BiKnzx-CPAjvNe1MNWc4oATDh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
