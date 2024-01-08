@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kuchimanchi.s@ufl.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18AtYzX7BiKnzx-CPAjvNe1MNWc4oATDh/view?usp=drive_link](https://drive.google.com/file/d/18AtYzX7BiKnzx-CPAjvNe1MNWc4oATDh/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QBwH4xHp5vehl1zwHCxeqYK8U8UnxmhO/view?usp=drive_link](https://drive.google.com/file/d/1QBwH4xHp5vehl1zwHCxeqYK8U8UnxmhO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
