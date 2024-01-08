@@ -4,7 +4,7 @@
 
 - 🔭 Most recent project on .NET and Azure [Restaurant Application using Microservices Architecture](https://mangowebprojectmicroservice.azurewebsites.net/)
 
-- 🔭 Recent Project published on college IT Server in Coordination with UF IT [Interactive Web Dashboard](https://nanotumor.phhp.ufl.edu/)
+- 🔭 Recent Project published on college IT Server in Coordination with UF IT [Interactive Web Dashboard](https://nanotumor.phhp.ufl.edu/) - Can be Accessed Only Using UF VPN.
 
 - 👨‍💻 All of my projects are available at [yashaskuchimanchi.com](yashaskuchimanchi.com)
 
