@@ -2,7 +2,9 @@
 <h3 align="center">Full Stack Web Developer | Innovative Computer Scientist with AI & ML Expertise | MS in Computer & Information Science @ UF</h3>
 
 
-- 🔭 I’m currently working on [Interactive Web Dashboard](https://ec2-3-129-177-192.us-east-2.compute.amazonaws.com/)
+- 🔭 Most recent project on .NET and Azure [Restaurant Application using Microservices Architecture](https://mangowebprojectmicroservice.azurewebsites.net/)
+
+- 🔭 Recent Project published on college IT Server in Coordination with UF IT [Interactive Web Dashboard](https://nanotumor.phhp.ufl.edu/)
 
 - 👨‍💻 All of my projects are available at [yashaskuchimanchi.com](yashaskuchimanchi.com)
 
